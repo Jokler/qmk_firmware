@@ -1,0 +1,30 @@
+{
+    "keyboard_name": "MiniPad",
+    "url": "",
+    "maintainer": "Jokler",
+    "width": 4,
+    "height": 4,
+    "layouts": {
+        "LAYOUT_ortho_4x4": {
+            "key_count": 16,
+            "layout": [
+                {"x": 0,"y": 0, "label": "K00"},
+                {"x": 1,"y": 0, "label": "K01"},
+                {"x": 2,"y": 0, "label": "K02"},
+                {"x": 3,"y": 0, "label": "K03"},
+                {"x": 0,"y": 1, "label": "K10"},
+                {"x": 1,"y": 1, "label": "K11"},
+                {"x": 2,"y": 1, "label": "K12"},
+                {"x": 3,"y": 1, "label": "K13"},
+                {"x": 0,"y": 2, "label": "K20"},
+                {"x": 1,"y": 2, "label": "K21"},
+                {"x": 2,"y": 2, "label": "K22"},
+                {"x": 3,"y": 2, "label": "K23"},
+                {"x": 0,"y": 3, "label": "K30"},
+                {"x": 1,"y": 3, "label": "K31"},
+                {"x": 2,"y": 3, "label": "K32"},
+                {"x": 3,"y": 3, "label": "K33"}
+            ]
+        }
+    }
+}
