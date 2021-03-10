@@ -23,7 +23,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 void keyboard_post_init_user(void) {
   rgblight_mode_noeeprom(RGBLIGHT_MODE_RAINBOW_SWIRL);
 }
-    
+
 void encoder_update_user(uint8_t index, bool clockwise) {
   if (index == 0) {         // First encoder - top left
     if (clockwise) {
