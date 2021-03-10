@@ -26,11 +26,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SWAP_HANDS_ENABLE
 
 #define MK_3_SPEED
-#define MK_C_OFFSET_0 	4
+#define MK_C_OFFSET_0   4
 #define MK_C_INTERVAL_0 16
-#define MK_C_OFFSET_1 	32
+#define MK_C_OFFSET_1   32
 #define MK_C_INTERVAL_1 16
-#define MK_C_OFFSET_2 	64
+#define MK_C_OFFSET_2   64
 #define MK_C_INTERVAL_2 8
 
 #undef RGBLIGHT_ANIMATIONS
